@@ -1,0 +1,17 @@
+{
+  "name": "node-mt19937_64",
+  "version": "0.0.1",
+  "description": "Mersenne Twister 19937 Generator (64 bit)",
+  "main": "./build/Release/mt19937_64.node",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": {
+    "name": "Irelynx",
+    "email": "slavakyi1997@gmail.com",
+    "url": "https://github.com/Irelynx"
+  },
+  "repository": "github:Irelynx/node-mt19937_64"
+}
